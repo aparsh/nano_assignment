@@ -1,0 +1,16 @@
+.userInput{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.userInputBar{
+    width: 200px;
+}
+
+.marginDiv{
+    margin-left: 10px;
+}

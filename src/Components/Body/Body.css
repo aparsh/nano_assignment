@@ -1,0 +1,25 @@
+.bodyContainer{
+    margin-top: 50px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.userInput{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.userInputBar{
+    width: 200px;
+}
+
+.marginDiv{
+    margin-left: 10px;
+}

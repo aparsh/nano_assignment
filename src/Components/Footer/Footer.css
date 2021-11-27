@@ -1,0 +1,28 @@
+.footerContainer{
+    position: relative;
+    justify-self: flex-end;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: lightskyblue;
+}
+
+.footerConatact{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nameText{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.rollText{
+    font-size: 18px;
+    font-weight: 200;
+}
