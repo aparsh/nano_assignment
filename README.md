@@ -1,9 +1,11 @@
 # PH401 Nano Assignment
 
-### Q1 - To deduce the total number of atoms and surface atoms for the different shells of cuboctahedral/spherical shape. Plot % of atoms in bulk/surface versus particle size. The user should get the idea to generate the thickness or size of nanoparticle for a particular application (optical/electrical/magnetic/strength)
+### Question 1
+#### To deduce the total number of atoms and surface atoms for the different shells of cuboctahedral/spherical shape. Plot % of atoms in bulk/surface versus particle size. The user should get the idea to generate the thickness or size of nanoparticle for a particular application (optical/electrical/magnetic/strength)
 
 You can run the code locally or can find the live demo [here](https://aparsh.github.io/nano_assignment/).
-The app deals with both the cuboctahedral and spherical shape  and for all the applications namely optical,electrical,magnetic,strength.
+The app deals with both the cuboctahedral and spherical shape and for all the applications namely optical ,electrical, magnetic, strength.
+
 
 
 ### Demo Video
